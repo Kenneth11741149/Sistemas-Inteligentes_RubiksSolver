@@ -250,4 +250,3 @@ for img in images:
 init_state=""
 init_state = init_state.join(colors)
 print(init_state)
-
